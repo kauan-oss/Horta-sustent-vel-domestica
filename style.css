@@ -1,16 +1,14 @@
 *{
     text-align: right;
-    background-color: aqua;
+    background-color: greenyellow;
 }
 
 h1{
     text-align: right;
-    background-color: aquamarine; 
+    background-color: green; 
 }
 
 .beneficios{
     list-style-position: inside;
     text-align: right;
 }
-
-
