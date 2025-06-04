@@ -13,3 +13,9 @@ h1{
     text-align: right;
 }
 
+.li{
+    text-align: right;
+    list-style: lower-alpha;
+    list-style-position: initial;
+}
+
