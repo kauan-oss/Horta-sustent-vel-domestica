@@ -10,5 +10,6 @@ h1{
 
 .beneficios{
     list-style-position: inside;
+    text-align: right;
 }
 
