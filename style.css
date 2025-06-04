@@ -1,10 +1,10 @@
 *{
-    align-items: end;
+    text-align: right;
     background-color: aqua;
 }
 
 h1{
-    align-items: center;
+    text-align: right;
     background-color: aquamarine; 
 }
 
